@@ -1,0 +1,12 @@
+.Box {
+  min-height: 40vh;
+  background-color: #ECC5A8;
+  flex-direction: column;
+  min-width: 30vw;
+  margin-top: 5%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color:#771B0C;
+  font-size: calc(4vmin);
+}

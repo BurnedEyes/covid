@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+  background-color: #372F18;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.header {
+  min-height: 10vh;
+  justify-content: center;
+  font-size: calc(10px + 4vmin);
+  color: #C9341C;
+}
+
+.body {
+  display:flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.footer {
+  margin-top: 5%;
+  color: #fff;
+}
