@@ -1,4 +1,5 @@
 COVID app
+https://burnedeyes.github.io/covid/
 
 ## Available Scripts
 
